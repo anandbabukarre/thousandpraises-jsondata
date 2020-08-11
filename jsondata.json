@@ -1,12 +1,4 @@
 [
-  {
-    "id": "0",
-    "name": "Sunday Service LIVE || The Lord's Church || 26th July 2020 || Raj Prakash Paul",
-    "propellant": "Go3IU3VdQZQ",
-    "destination": "none",
-    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/sudayservicelive.jpg"
-   
-  },
   
   {
     "id": "1",
@@ -96,7 +88,7 @@
   {
     "id": "11",
     "name": "నినుపోలిన వారెవరు",
-    "propellant": "-0PcAyv39c8",
+    "propellant": "KVGU7a0fZNs",
     "destination": "none",
     "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/ninupolina.jpg"
    
@@ -109,7 +101,80 @@
     "destination": "none",
     "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/athyunnatha.jpg"
    
+  },
+  
+  {
+    "id": "13",
+    "name": "స్తోత్రం చెల్లింతుము ",
+    "propellant": "A9qElS87Fxk",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/stothramchellinthumu.jpg"
+   
+  },
+  
+  {
+    "id": "14",
+    "name": "మహాఘనుడవు మహోన్నతుడవు",
+    "propellant": "Wa2wYiOD_c4",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/mahaganudavu.jpg"
+   
+  },
+  
+  {
+    "id": "15",
+    "name": "మహిమ మహిమ మహిమ మన యేసు రాజుకే ",
+    "propellant": "_exEh5DHQP0",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/mahima.jpg"
+   
+  },
+  
+  {
+    "id": "16",
+    "name": "హల్లెలూయ స్తుతి మహిమ ",
+    "propellant": "hnp00ADjD4I",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/halleluiahasthuthimahima.jpg"
+   
+  },
+  
+  {
+    "id": "17",
+    "name": "అన్ని నామముల కన్నా పై నామము",
+    "propellant": "G0Ef25SvXsI",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/anni_naamamula.jpg"
+   
+  },
+  
+  {
+    "id": "18",
+    "name": "స్తోత్రభలి అర్పించేదము ",
+    "propellant": "CZAGhCuJimU",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/sthotrabali_arpinchedamu.jpg"
+   
+  },
+  
+  {
+    "id": "19",
+    "name": "నజరేయుడా నా యేసయ్యా ",
+    "propellant": "w8BfhacMbr4",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/najareyuda_naa.jpg"
+   
+  },
+  
+  {
+    "id": "20",
+    "name": "కృపా సత్య సంపూర్ణుడా ",
+    "propellant": "jHr1tJO_d8k",
+    "destination": "none",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/krupasatya.jpg"
+   
   }
+  
   
   
   
